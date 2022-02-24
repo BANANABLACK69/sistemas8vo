@@ -1,2 +1,6 @@
 # sistemas8vo
-practicas de framworks
+practicas de framworks 
+
+Prota: Jess Eduardo Cast
+
+Hola que tal compas
